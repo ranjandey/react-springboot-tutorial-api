@@ -1,4 +1,4 @@
-# spring-boot-backend-API
+# Spring-Boot-Backend-API
 
 For more detail, please visit:
 
@@ -8,7 +8,6 @@ How to integrate Spring Boot with React.js
 ```
 mvn clean install
 ```
-
 ### Run
 ```
 mvn spring-boot:run
